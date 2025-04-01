@@ -1,3 +1,5 @@
+Flask Forest Fire Prediction
+
 This is a Flask-based web application that predicts forest fires based on given input parameters. The model is trained using machine learning techniques.
 
 Features
