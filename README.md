@@ -75,7 +75,3 @@ To deploy on Heroku:
 git push heroku main
 
 Or use Render/Vercel for deployment.
-
-License
-
-This project is licensed under the MIT License.
